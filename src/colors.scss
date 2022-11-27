@@ -1,8 +1,10 @@
 $dark-theme: (
         "c1":black, //bg-color
-        "c2":grey, //key-bg-color, tile-border
-        "c3":white, //text
-        "n1":100%, //invert-img
+        "c2":#555555, //key-bg-color, tile-border
+        "c3":white, //text, header-border
+        "c4":#3b3c40, //key-box-shadow-color
+        "c5":#7F7F7F7F, //key-hover-bg
+        "n1":100%, //invert-assent
 );
 $light-theme: (
 );
